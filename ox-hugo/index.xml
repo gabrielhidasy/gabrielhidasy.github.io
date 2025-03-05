@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ox-Hugoes on My Blog</title>
+    <link>https://blog.hidasy.xyz/ox-hugo/</link>
+    <description>Recent content in Ox-Hugoes on My Blog</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Jul 2018 17:31:56 -0400</lastBuildDate>
+    <atom:link href="https://blog.hidasy.xyz/ox-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 3</title>
+      <link>https://blog.hidasy.xyz/ox-hugo/post-3/</link>
+      <pubDate>Thu, 12 Jul 2018 17:31:56 -0400</pubDate>
+      <guid>https://blog.hidasy.xyz/ox-hugo/post-3/</guid>
+      <description>&lt;p&gt;Export this &lt;strong&gt;first&lt;/strong&gt; post only by bringing point here and doing &lt;code&gt;M-x org-hugo-export-wim-to-md&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>https://blog.hidasy.xyz/ox-hugo/post-1/</link>
+      <pubDate>Wed, 12 Jul 2017 17:31:56 -0400</pubDate>
+      <guid>https://blog.hidasy.xyz/ox-hugo/post-1/</guid>
+      <description>&lt;p&gt;Export this &lt;strong&gt;first&lt;/strong&gt; post only by bringing point here and doing &lt;code&gt;M-x org-hugo-export-wim-to-md&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to use Ox-Hugo?</title>
+      <link>https://blog.hidasy.xyz/ox-hugo/howto/</link>
+      <pubDate>Wed, 12 Jul 2017 17:05:38 -0400</pubDate>
+      <guid>https://blog.hidasy.xyz/ox-hugo/howto/</guid>
+      <description>&lt;p&gt;Just use C-c C-e H A in this file&lt;/p&gt;
+&lt;p&gt;Entries should look like this&lt;/p&gt;
+&lt;p&gt;Then:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be the root directory for this Hugo site (the directory containing
+&lt;code&gt;config.toml&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;Run
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo server --port 1111
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;See the site served on &amp;ldquo;&lt;a href=&#34;http://localhost:1111/&#34;&gt;http://localhost:1111/&lt;/a&gt;&amp;rdquo;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#+HUGO_BUNDLE posts&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 2</title>
+      <link>https://blog.hidasy.xyz/ox-hugo/post-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.hidasy.xyz/ox-hugo/post-2/</guid>
+      <description>&lt;p&gt;This post has no date.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
