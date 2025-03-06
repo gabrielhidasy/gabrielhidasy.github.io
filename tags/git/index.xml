@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Gabriel Hidasy&#39;s Blog</title>
+    <link>/tags/git/</link>
+    <description>Recent content in Git on Gabriel Hidasy&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker and Hugo setup</title>
+      <link>/post/docker_and_hugo_setup/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/docker_and_hugo_setup/</guid>
+      <description>Objective  Automatic blog management using org, git, docker and hugo.
+Hugo Setup  Hugo builds static websites from markup files (org, md…).
+TODO: Explain what I did     Org Setup  Org capture templates are very flexible and allow for quickly capturing an idea to a note on the fly. Those can easily be used for a blog using ox-hugo, or directly with some more setup.</description>
+    </item>
+    
+  </channel>
+</rss>
