@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on My Blog</title>
     <link>https://blog.hidasy.xyz/tags/</link>
     <description>Recent content in Tags on My Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.hidasy.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs</title>
+      <link>https://blog.hidasy.xyz/tags/emacs/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.hidasy.xyz/tags/emacs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://blog.hidasy.xyz/tags/hugo/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.hidasy.xyz/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Org</title>
+      <link>https://blog.hidasy.xyz/tags/org/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.hidasy.xyz/tags/org/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

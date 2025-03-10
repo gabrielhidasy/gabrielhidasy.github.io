@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My Blog</title>
     <link>https://blog.hidasy.xyz/posts/</link>
     <description>Recent content in Posts on My Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jul 2017 17:05:38 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.hidasy.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to use Ox-Hugo?</title>
-      <link>https://blog.hidasy.xyz/posts/howto/</link>
-      <pubDate>Wed, 12 Jul 2017 17:05:38 -0400</pubDate>
-      <guid>https://blog.hidasy.xyz/posts/howto/</guid>
-      <description>&lt;p&gt;Just use C-c C-e H A in this file&lt;/p&gt;&#xA;&lt;p&gt;Entries should look like this&lt;/p&gt;&#xA;&lt;p&gt;Then:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Be the root directory for this Hugo site (the directory containing&#xA;&lt;code&gt;config.toml&lt;/code&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Run&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo server --port 1111&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&#xA;&lt;li&gt;See the site served on &amp;ldquo;&lt;a href=&#34;http://localhost:1111/&#34;&gt;http://localhost:1111/&lt;/a&gt;&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;#+HUGO_BUNDLE posts&lt;/p&gt;</description>
+      <title>Writing a blog with Emacs-Org and Hugo</title>
+      <link>https://blog.hidasy.xyz/posts/writing-a-blog-with-emacs-and-hugo-2025-03-09/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.hidasy.xyz/posts/writing-a-blog-with-emacs-and-hugo-2025-03-09/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Emacs, Org and Hugo? ox-hugo
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;We could use org-hugo, but hugo has support for rendering org
+natively, so it might be easier to just  write directly.&lt;/p&gt;
+&lt;p&gt;
+It needs a header with a few extra information, it can be done in
+org-tags (see &lt;a href=&#34;https://blog.hidasy.xyz/posts/20210824185856-treslechescake/&#34;&gt;Tres Leches Cake&lt;/a&gt; for an example), but my template uses
+the hugo version.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-2&#34;&gt;
+Linking
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;Linking works&lt;/a&gt;, just add an org like&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-3&#34;&gt;
+Images
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;images work, but alt-text is weird, captions are better.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

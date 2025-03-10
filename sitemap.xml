@@ -2,67 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.hidasy.xyz/blog/howto/</loc>
-    <lastmod>2017-07-12T17:05:38-04:00</lastmod>
+    <loc>https://blog.hidasy.xyz/tags/emacs/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.hidasy.xyz/blog/post-with-image/</loc>
-    <lastmod>2022-08-14T22:06:00-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/blog/post-1/</loc>
-    <lastmod>2017-07-12T17:31:56-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/blog/post-2/</loc>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/blog/post-3/</loc>
-    <lastmod>2018-07-12T17:31:56-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/blog/test-title/</loc>
+    <loc>https://blog.hidasy.xyz/tags/hugo/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.hidasy.xyz/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.hidasy.xyz/post/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/blog/</loc>
-    <lastmod>2022-08-14T22:06:00-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/recipes/</loc>
-    <lastmod>2022-08-14T20:56:24-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/recipes/20210824185856-treslechescake/</loc>
-    <lastmod>2022-05-16T14:13:14-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/recipes/20220414003203-parmesan_foam/</loc>
-    <lastmod>2022-08-14T20:56:24-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/recipes/20220724152809-flapjacks/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/ox-hugo/</loc>
-    <lastmod>2018-07-12T17:31:56-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/ox-hugo/post-3/</loc>
-    <lastmod>2018-07-12T17:31:56-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/ox-hugo/post-1/</loc>
-    <lastmod>2017-07-12T17:31:56-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/ox-hugo/howto/</loc>
-    <lastmod>2017-07-12T17:05:38-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/posts/howto/</loc>
-    <lastmod>2017-07-12T17:05:38-04:00</lastmod>
+    <loc>https://blog.hidasy.xyz/tags/org/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.hidasy.xyz/posts/</loc>
-    <lastmod>2017-07-12T17:05:38-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/archives/</loc>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/categories/</loc>
-  </url><url>
-    <loc>https://blog.hidasy.xyz/ox-hugo/post-2/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.hidasy.xyz/tags/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.hidasy.xyz/posts/writing-a-blog-with-emacs-and-hugo-2025-03-09/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.hidasy.xyz/categories/</loc>
   </url>
 </urlset>
